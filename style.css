@@ -13,28 +13,30 @@ body {
     
     
     h1 {
-     margin-top: 43px;
+     margin-top: 19px;
      color: #2d2c2a;
      margin-left: 10px;
     }
     
     .imgg {
-        margin-right: 73PX;
-        width: 176px;
-        border-radius: 10px;
-        text-align: center;
-        margin-left: 120px;
-        transform: scale(1.40);
-        display: flex;;
+    /* margin-right: 78PX; */
+    width: 89%;
+    border-radius: 10px;
+    /* text-align: center; */
+    margin-left: 44px;
+    /* transform: scale(1.40); */
+    display: flex;
+    margin-top: 0%;
     
     }
     
     .box {
-     width: 649px;
-     height: auto;
-     background-color: aliceblue;
-     padding: 30px;
-     border-radius: 10PX;
+        width: 729px;
+        height: auto;
+        margin-top: 7%;
+        background-color: aliceblue;
+        padding: 30px;
+        border-radius: 10PX;
     }
     
     .box2 {
